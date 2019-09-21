@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -66,7 +66,7 @@ math = false
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
+diagram = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -97,7 +97,7 @@ address = {street = "Gates-Hillman Center 7601", city = "Pittsburgh", region = "
 coordinates = {latitude = "40.4486266", longitude = "-79.9547198,15"}
 
 # Directions for visitors to locate you.
-directions = "My office is located on the Hillman side."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -109,8 +109,8 @@ appointment_url = "https://calendly.com/icaoberg"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/justahappygeek"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:icaoberg?call"},
+  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/justahappygeek"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:icaoberg?call"},
   ]
 
 ############################
@@ -179,7 +179,7 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
+  post_view = 3
   publication_view = 2
   talk_view = 2
 
@@ -237,6 +237,6 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
