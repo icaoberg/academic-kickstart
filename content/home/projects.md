@@ -37,6 +37,14 @@ subtitle = ""
      name = "Latinx Community"
      tag = "latinx"
 
+   [[content.filter_button]]
+     name = "Carnegie Mellon University"
+     tag = "cmu"
+
+   [[content.filter_button]]
+     name = "Food and Drink"
+     tag = "food"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "3"
