@@ -1,0 +1,19 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Doctor Mario"
+subtitle: "Nintendo"
+summary: ""
+authors: ["icaoberg"]
+tags: ["nintendo", "android"]
+categories: ["random"]
+date: 2019-09-28T18:36:03-04:00
+lastmod: 2019-09-28T18:36:03-04:00
+featured: false
+draft: false
+projects: []
+---
+
+{{< tweet 1178182420958453760 >}}
+
+P.S I remember playing this game on the original broccoli Game Boy for hours on end :smile:

@@ -1,0 +1,23 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Alejandro Sanz y Camila Cabello - Mi Persona Favorita"
+subtitle: "TinyCards set"
+summary: "The TinyCards set for this wonderful song"
+authors: ["icaoberg"]
+tags: ["tinycards", "spanish"]
+categories: []
+date: 2019-10-03T00:00:00-00:00
+lastmod: 2019-10-03T00:00:00-00:00
+featured: false
+draft: false
+projects: ["languages"]
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W4AiOKlOO0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This flashcards set was created for the attendees of the [Pittsburgh Spanish Meetup Group](https://www.meetup.com/Pittsburgh-Spanish/events/264262917/) and the [Spanish II](https://www.carnegielibrary.org/?s=spanish+ii&search-location=Website) experience at Carnegie Library of Pittsburgh.
+
+* [TinyCards set](https://tinycards.duolingo.com/decks/LcfM3taS/ale-sanz-y-camila-cabello-mi-persona-favorita)
+
+P.S. "Mi persona favorita, juega con mi corazon\.\.\." :blush:
