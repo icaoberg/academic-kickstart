@@ -6,7 +6,7 @@ subtitle: "TinyCards set"
 summary: "The TinyCards set for this wonderful song"
 authors: ["icaoberg"]
 tags: ["tinycards", "spanish"]
-categories: []
+categories: ["Spanish II", "Spanish Meetup"]
 date: 2019-09-22T21:57:35-04:00
 lastmod: 2019-09-22T21:57:35-04:00
 featured: false

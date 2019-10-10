@@ -6,7 +6,7 @@ subtitle: "Mathworks Matlab"
 summary: "A gaming platform for Matlab"
 authors: ["icaoberg"]
 tags: ["matlab","cody"]
-categories: []
+categories: ["Programming"]
 date: 2019-09-26T02:10:48-04:00
 lastmod: 2019-09-26T02:10:48-04:00
 featured: false

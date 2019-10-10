@@ -6,7 +6,7 @@ subtitle: "TinyCards set"
 summary: "The TinyCards set for this wonderful song"
 authors: ["icaoberg"]
 tags: ["tinycards", "spanish"]
-categories: []
+categories: ["Spanish II", "Spanish Meetup"]
 date: 2019-10-05T00:00:00-00:00
 lastmod: 2019-10-05T00:00:00-00:00
 featured: false
@@ -20,8 +20,8 @@ This flashcards set was created for the attendees of the [Pittsburgh Spanish Mee
 
 * [TinyCards set](https://tinycards.duolingo.com/decks/JUAhshuF/morat-cuando-nadie-ve)
 
-P.S. Because of this song I learnt about [Morat](https://en.wikipedia.org/wiki/Morat_(band). This band is amazing and I have loved every single song so far.
-
+P.S. Because of this song I learnt about [Morat](https://en.wikipedia.org/wiki/Morat_(band)). This band is amazing and I have loved every single song so far.
+<br>
 {{< quote >}}
 "Y ahora entiendo cual es mi papel
 Nos queremos cuando nadie ve
