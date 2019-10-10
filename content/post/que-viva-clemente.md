@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Que viva Clemente!"
+title: "¡Que viva Clemente!"
 subtitle: "Come celebrate the life of Clemente and the Hispanic Heritage Month"
 summary: "Come celebrate the life of Clemente and the Hispanic Heritage Month"
 authors: ["icaoberg"]

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Leo Dan y Banda El Limon - Pideme la Luna"
+title: "Leo Dan y Banda El Limón - Pídeme la Luna"
 subtitle: "TinyCards set"
 summary: "The TinyCards set for this wonderful song"
 authors: ["icaoberg"]
