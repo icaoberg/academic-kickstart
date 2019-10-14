@@ -26,14 +26,9 @@ subtitle = ""
   
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
-  name = "Python"
-  
-[[feature]]
-  icon = "python"
   icon_pack = "fab"
   name = "Python"
-  
+    
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"

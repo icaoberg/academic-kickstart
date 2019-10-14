@@ -8,10 +8,15 @@ authors: ["icaoberg"]
 tags: ["lclaa", "brookline teen outreach center"]
 categories: ["Spanish II", "Spanish Meetup"]
 date: 2019-10-12T10:00:00-00:00
-lastmod: 2019-12-10T10:00:00-00:00
+lastmod: 2019-10-12T10:00:00-00:00
 featured: true
 draft: false
 projects: ["latinx"]
+
+image:
+  caption: "Roberto Clemente"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< tweet 1181751087096848385 >}}

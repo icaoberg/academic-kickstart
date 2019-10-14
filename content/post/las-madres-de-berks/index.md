@@ -12,6 +12,11 @@ lastmod: 2019-10-10T10:00:00-00:00
 featured: true
 draft: false
 projects: ["latinx"]
+
+image:
+  caption: "Las Madres de Berks"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< tweet 1182139962180980736 >}}

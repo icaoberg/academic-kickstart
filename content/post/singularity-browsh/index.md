@@ -9,9 +9,14 @@ tags: ["singularity"]
 categories: ["programming"]
 date: 2019-10-13T01:19:33-04:00
 lastmod: 2019-10-13T01:19:33-04:00
-featured: false
+featured: true
 draft: false
 projects: []
+
+image:
+  caption: "browsh"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< twitter 1183250309612789765 >}}
