@@ -9,8 +9,13 @@ tags: ["matlab", "gear", "twitter"]
 categories: ["random"]
 date: 2019-09-18T00:15:38-04:00
 lastmod: 2019-09-18T00:15:38-04:00
-featured: false
+featured: true
 draft: false
+
+image:
+  caption: "Matlab"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< tweet 1174327244644388864 >}}
