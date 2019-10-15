@@ -9,9 +9,14 @@ tags: ["fermentation", "vegan"]
 categories: ["fermentation"]
 date: 2019-09-29T01:50:57-04:00
 lastmod: 2019-09-29T01:50:57-04:00
-featured: false
+featured: true
 draft: false
 projects: ["food"]
+
+image:
+  caption: "Carrots"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< tweet 1178179182674747392 >}}

@@ -9,10 +9,15 @@ tags: ["docker", "matlab"]
 categories: ["programming"]
 date: 2019-09-20T21:17:12-04:00
 lastmod: 2019-09-20T21:17:12-04:00
-featured: false
+featured: true
 draft: false
 
 projects: ["cellorganizer"]
+
+image:
+  caption: "Matlab"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 <div class="github-card" data-github="icaoberg/docker-matlabmcr2019b" data-width="400" data-height="153" data-theme="default"></div>

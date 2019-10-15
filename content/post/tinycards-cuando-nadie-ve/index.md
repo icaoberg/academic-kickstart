@@ -9,9 +9,14 @@ tags: ["tinycards", "spanish"]
 categories: ["Spanish II", "Spanish Meetup"]
 date: 2019-10-05T00:00:00-00:00
 lastmod: 2019-10-05T00:00:00-00:00
-featured: false
+featured: true
 draft: false
 projects: ["languages"]
+
+image:
+  caption: "TinyCards by Duolingo"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szeA9tvItJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

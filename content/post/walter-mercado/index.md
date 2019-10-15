@@ -9,9 +9,14 @@ tags: []
 categories: []
 date: 2016-12-14T02:09:00-04:00
 lastmod: 2016-12-14T02:09:00-04:00
-featured: false
+featured: true
 draft: false
 projects: ["latinx"]
+
+image:
+  caption: "TinyCards by Duolingo"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< youtube JxjOnr67hXw >}}

@@ -35,9 +35,11 @@ This Saturday we had a brief discussion about different words we use to express 
 | embarazada | pregnant      |                            |
 | encinta    | pregnant      |                            |
 | preñada    | pregnant      | Generally used for animals |
-| dar a luz  | to give birth |                            |
+| dar a luz  | childbirth delivery |                            |
 | parir      | to give birth | Generally used for animals |
-| de parto   | of childbirth |                            |
+| parto   | labor |                            |
+
+*Comment*: I updated two entries from the table above to reflect the suggestions from a bilingual OBGYN.
 
 * Using the word *preñada* and/or the verb *parir* is usually meant for animals or as an insult.
 * It may be fine to use those words between expecting mothers or friends. However, avoid using them to be safe.

@@ -12,6 +12,11 @@ lastmod: 2019-09-28T18:36:03-04:00
 featured: false
 draft: false
 projects: []
+
+image:
+  caption: "Super Mario Bros"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< tweet 1178182420958453760 >}}

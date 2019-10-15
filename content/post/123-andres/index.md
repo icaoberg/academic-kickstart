@@ -12,6 +12,11 @@ lastmod: 2016-01-06T10:00:00-00:00
 featured: false
 draft: false
 projects: ["latinx"]
+
+image:
+  caption: "123 Andres"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< figure src="/images/2016/123_andres.jpg" title="123 Andres" >}}

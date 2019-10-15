@@ -12,6 +12,11 @@ lastmod: 2019-09-29T02:28:59-04:00
 featured: true
 draft: false
 projects: ["food", "latinx"]
+
+image:
+  caption: "TacoMania 2019"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< tweet 1178194704040640512 >}}

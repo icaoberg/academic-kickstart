@@ -9,9 +9,14 @@ tags: ["spanish", "clp"]
 categories: ["Spanish II"]
 date: 2019-10-03T14:11:35-04:00
 lastmod: 2019-10-03T14:11:35-04:00
-featured: false
+featured: true
 draft: false
 projects: ["language"]
+
+image:
+  caption: "TinyCards by Duolingo"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9cCPQVPv8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

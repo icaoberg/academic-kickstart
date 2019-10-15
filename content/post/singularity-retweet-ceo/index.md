@@ -9,9 +9,14 @@ tags: ["singularity", "twitter"]
 categories: ["programming"]
 date: 2019-09-21T00:20:50-04:00
 lastmod: 2019-09-21T00:20:50-04:00
-featured: false
+featured: true
 draft: false
 projects: []
+
+image:
+  caption: "CellOrganizer"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< tweet 1174705344339161089 >}}
