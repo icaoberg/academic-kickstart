@@ -12,6 +12,14 @@ lastmod: 2019-10-15T14:09:00-04:00
 featured: false
 draft: false
 projects: []
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: "Doctor Who"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< youtube wXrqtC81ztA >}}
