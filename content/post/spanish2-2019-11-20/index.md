@@ -7,11 +7,19 @@ summary: "See you tonight at CLP Oakland for an adventure in Spanish"
 authors: ["icaoberg"]
 tags: ["clp", "pittsburgh"]
 categories: ["Spanish II"]
-date: 2019-11-06T10:00:00-00:00
-lastmod: 2019-11-06T10:00:00-00:00
+date: 2019-11-20T10:00:00-00:00
+lastmod: 2019-11-20T10:00:00-00:00
 featured: false
 draft: false
 projects: ["latinx", "language"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: "Spanish II"
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 {{< tweet 1170336228593586177 >}}
