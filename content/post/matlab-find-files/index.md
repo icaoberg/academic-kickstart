@@ -6,7 +6,7 @@ subtitle: "Mathworks Matlab"
 summary: "Am I this old?"
 authors: ["icaoberg"]
 tags: ["matlab"]
-categories: ["programming"]
+categories: ["Programming"]
 date: 2019-10-22T16:11:26-04:00
 lastmod: 2019-10-22T16:11:26-04:00
 featured: true
