@@ -24,3 +24,6 @@ image:
 This flashcards set was created for the attendees of the [Pittsburgh Spanish Meetup Group](https://www.meetup.com/Pittsburgh-Spanish/events/264262917/) and the [Spanish II](https://www.carnegielibrary.org/?s=spanish+ii&search-location=Website) experience at Carnegie Library of Pittsburgh.
 
 * [TinyCards set](https://tiny.cards/decks/PJ1RXDEj/tommy-torres-querido-tommy)
+
+## Comment
+In the song the author uses the expression *pajas del intelecto*. These comes from the expression "paja mental". Even though there is a long explanation to using this phrase in rican culture, let's just say its interpretation can be "ideas/thoughts that lead nowhere" or "ideas/thoughts that are not productive".
