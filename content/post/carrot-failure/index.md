@@ -6,7 +6,7 @@ subtitle: "Failed miserably at fermenting carrots"
 summary: "Failed miserably at fermenting carrots"
 authors: ["icaoberg"]
 tags: ["fermentation", "vegan"]
-categories: ["fermentation"]
+categories: ["Food and Drinks"]
 date: 2019-09-29T01:50:57-04:00
 lastmod: 2019-09-29T01:50:57-04:00
 featured: true

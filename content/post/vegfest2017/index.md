@@ -6,7 +6,7 @@ subtitle: "Vegetarian festival in Pittsburgh"
 summary: "Vegetarian festival in Pittsburgh"
 authors: ["icaoberg"]
 tags: ["vegetarian", "vegan"]
-categories: []
+categories: ["Food and Drinks"]
 date: 2017-07-05T02:13:18-04:00
 lastmod: 2017-07-05T02:13:18-04:00
 featured: false

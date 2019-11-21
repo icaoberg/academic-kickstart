@@ -5,8 +5,8 @@ title: "Doritos and Walter Mercado"
 subtitle: ""
 summary: "Best commercial ever"
 authors: ["icaoberg"]
-tags: []
-categories: []
+tags: ["walter mercado"]
+categories: ["latinx"]
 date: 2016-12-14T02:09:00-04:00
 lastmod: 2016-12-14T02:09:00-04:00
 featured: true

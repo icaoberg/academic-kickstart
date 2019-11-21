@@ -6,7 +6,7 @@ subtitle: "Singularity recipe and image"
 summary: "Singularity recipe and image for browsh"
 authors: ["icaoberg"]
 tags: ["singularity"]
-categories: ["programming"]
+categories: ["Programming"]
 date: 2019-10-13T01:19:33-04:00
 lastmod: 2019-10-13T01:19:33-04:00
 featured: true

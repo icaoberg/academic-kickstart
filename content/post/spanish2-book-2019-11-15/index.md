@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Once upon a time: traditional Latin American tales"
+title: "Luna Fortuna"
 subtitle: "Spanish book of the week from the Carnegie Library of Pittsburgh"
 summary: "The Spanish book of the week from Carnegie Library of Pittsburgh"
 authors: ["icaoberg"]
 tags: ["spanish", "clp", "books"]
 categories: ["Spanish II"]
-date: 2019-11-01T22:00:00-04:00
-lastmod: 2019-11-01T22:00:00-04:00
+date: 2019-11-15T22:00:00-04:00
+lastmod: 2019-11-15T22:00:00-04:00
 featured: true
 draft: false
 projects: ["language"]
@@ -27,7 +27,7 @@ Click the image to see the entry on the database.
 
 Remember you can [search the CLP database](https://www.carnegielibrary.org/) for other resources.
 
-### Summary 
+### Summary
 
 Enter an enchanted world of kings and giants, where cockroaches play dress-up and coyotes fly to the moon! In this lively bilingual collection of short stories, Spain and Latin America's most beloved tales are retold for a new generation.
 
