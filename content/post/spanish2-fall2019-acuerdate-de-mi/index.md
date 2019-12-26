@@ -31,17 +31,28 @@ Click [here](https://tinycards.duolingo.com/decks/NWCaMoSH/morat-acuerdate-de-mi
 
 All comments below are based as my experience as an interpreter and are not set in stone. These are based on what was discussed in the experience today.
 
-### Verbs
+### Vocabulary
 
-Comments about *verbs* will be shown in this section.
+In the song *Materialista*, Silvestre and Nicky Jam use the word **rumba**. Rumba is a kind of dance, but we also use it as a synonym for *party*/*partying*.
 
 ### Translation
 
-Comments about *translations* will be shown in this section.
+* “I threw a wish in the well/Don't ask me I'll never tell/I looked at you as it fell/And now you're in my way” -Carly Rae Jepsen ([Call Me Maybe](https://www.youtube.com/watch?v=fWNaR-rxAic))
 
-### Lyrics
+The translation we agreed on was
 
-Comments about *lyrics* will be shown in this section.
+* "Yo tiré un deseo en el pozo/no me preguntes, nunca lo diré/Te miré mientras caía/y ahora estás en mi camino" -Carly Raw Jepsen (Call Me Maybe)
+
+### Interpretation
+
+{{< youtube YG2p6XBuSKA >}}
+
+
+The interpretation exercise today was based on the song *El Amante* by Nicky Jam. Music video above. The snippet we tried to interpret was
+
+"Esta la hice pa' él/Cuando la escuche, quiero estar ahí para ver/Cuando se entere y sepa que soy dueño de usted/Tal vez suene un poco mal, lo sé y no me luce/Todo es por usted"
+
+-Nicky Jam (El Amante)
 
 ## Books
 

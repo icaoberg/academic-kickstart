@@ -3,7 +3,7 @@
 
 title: "Juanes y Sebastian Yatra - Bonita"
 subtitle: "Spanish II at Carnegie Library of Pittsburgh"
-summary: "Bonita is the song we are going to be using for the exercise today"
+summary: "*Bonita* is the song we are going to be using for the exercise today"
 authors: ["icaoberg"]
 tags: ["spanish", "clp"]
 categories: ["Spanish II"]
@@ -40,7 +40,7 @@ Remember you can use any resource from the library. However, if you are willing 
 
 ## More information
 * Click [here](https://docs.google.com/document/d/1_kM-OtDcfPzUAw21UUOyLHpHD8zWyVVyz14_4dx21dk/edit?usp=sharing) to see a copy of the document we used today.
-* Click [here](https://tinycards.duolingo.com/decks/NWCYDydv/juanes-y-sebastian-yatra-bonita) for the TinyCards set for this songs.
+* Click [here](https://tinycards.duolingo.com/decks/NWCYDydv/juanes-y-sebastian-yatra-bonita) for the TinyCards set for this song.
 * Click [here](https://docs.google.com/document/d/17eOTapw18BuP5Zvd1ZECif5zDMUsvxT7PsPiSwC7S0o/edit?usp=sharing) to see a full list of songs available on TinyCards.
 * Click [here](https://play.google.com/music/playlist/AMaBXylPqViNePkuApJYuY_5O_dIhdr6xj-OeoahENiB7xjKR2c3h1R3LFbcO4Ya43Y_JdeCwB086YJQ_ptzt3caSN3Hi1TUhQ%3D%3D) for a playlist with songs we are going to listen this Fall.
 * Click [here](https://docs.google.com/document/d/1j2lHjCQ9QDb2o-SDTODL9Ojgi09zzi789BctPOw9Z6Q/edit?usp=sharing) to see a list of local resources for learning Spanish.

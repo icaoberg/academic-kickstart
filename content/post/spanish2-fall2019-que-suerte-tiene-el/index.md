@@ -3,7 +3,7 @@
 
 title: "Luciano Pereyra - Que Suerte tiene El"
 subtitle: "Spanish II at Carnegie Library of Pittsburgh"
-summary: "Bonita is the song we are going to be using for the exercise today"
+summary: "*Que Suerte tiene El* is the song we are going to be using for the exercise today"
 authors: ["icaoberg"]
 tags: ["spanish", "clp"]
 categories: ["Spanish II"]
