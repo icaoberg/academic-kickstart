@@ -5,7 +5,7 @@ title: "Spanish Conversation at CLP Lawrenceville"
 subtitle: "Pittsburgh Spanish Meetup Group"
 summary: "Conversation group for intermediate and advanced speakers"
 authors: ["icaoberg"]
-tags: ["clp", "pittsburgh"]
+tags: ["spanish", "meetup", "pittsburgh","clp"]
 categories: ["Spanish Meetup"]
 date: 2019-10-10T10:00:00-00:00
 lastmod: 2019-10-10T10:00:00-00:00

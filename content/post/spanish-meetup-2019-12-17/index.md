@@ -5,7 +5,7 @@ title: "Let's practice some Spanish at Cilantro y Ajo!"
 subtitle: "Pittsburgh Spanish Meetup Group"
 summary: "Conversation group for beginners and intermedia speakers"
 authors: ["icaoberg"]
-tags: ["clp", "pittsburgh"]
+tags: ["spanish","meetup", "pittsburgh", "clp"]
 categories: ["Spanish Meetup"]
 date: 2019-12-17T10:00:00-00:00
 lastmod: 2019-12-17T10:00:00-00:00
