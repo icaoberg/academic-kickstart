@@ -6,7 +6,7 @@ subtitle: "Twitter"
 summary: "I got retweeted by Singularity on Twitter"
 authors: ["icaoberg"]
 tags: ["singularity", "twitter"]
-categories: ["programming"]
+categories: ["Programming"]
 date: 2019-09-21T00:20:50-04:00
 lastmod: 2019-09-21T00:20:50-04:00
 featured: true

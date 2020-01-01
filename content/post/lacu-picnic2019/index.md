@@ -6,7 +6,7 @@ subtitle: "Latin American Cultural Union"
 summary: "Today at 1:00p.m. the yearly picnic at Schenley park"
 authors: ["icaoberg"]
 tags: ["lacu", "twitter"]
-categories: ["events"]
+categories: ["Events"]
 date: 2019-09-21T00:12:06-04:00
 lastmod: 2019-09-21T00:12:06-04:00
 featured: false

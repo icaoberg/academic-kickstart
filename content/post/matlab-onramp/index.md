@@ -6,7 +6,7 @@ subtitle: "Mathworks Matlab Certification"
 summary: "Mathworks Matlab Certification"
 authors: ["icaoberg"]
 tags: ["matlab","certification"]
-categories: ["programming"]
+categories: ["Programming"]
 date: 2019-11-09T01:48:55-05:00
 lastmod: 2019-11-09T01:48:55-05:00
 featured: true

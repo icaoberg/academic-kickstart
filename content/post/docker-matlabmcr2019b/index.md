@@ -6,7 +6,7 @@ subtitle: "Mathworks Matlab"
 summary: "Docker image for Matlab MCR 2019b"
 authors: ["icaoberg"]
 tags: ["docker", "matlab"]
-categories: ["programming"]
+categories: ["Programming"]
 date: 2019-09-20T21:17:12-04:00
 lastmod: 2019-09-20T21:17:12-04:00
 featured: true

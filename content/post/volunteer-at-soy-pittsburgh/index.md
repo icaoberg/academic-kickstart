@@ -6,7 +6,7 @@ subtitle: "SOY Pittsburgh"
 summary: "Volunter at SOY Pittsburgh"
 authors: ["icaoberg"]
 tags: ["pittsburgh"]
-categories: ["volunteering"]
+categories: ["Volunteering"]
 date: 2019-09-16T23:01:17-04:00
 lastmod: 2019-09-16T23:01:17-04:00
 featured: false

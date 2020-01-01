@@ -6,7 +6,7 @@ subtitle: "You can get a doctorate sword in Finland"
 summary: "Thinking about going to Finland to do a doctorate"
 authors: ["icaoberg"]
 tags: ["twitter", "finland"]
-categories: ["random"]
+categories: ["Random"]
 date: 2019-10-21T01:47:39-04:00
 lastmod: 2019-10-21T01:47:39-04:00
 featured: true

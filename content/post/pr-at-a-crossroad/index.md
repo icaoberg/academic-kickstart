@@ -6,7 +6,7 @@ subtitle: "University of Pittsburgh"
 summary: "Symposium about Puerto Rico after Hurricane Maria"
 authors: ["icaoberg"]
 tags: ["hurricane maria", "twitter"]
-categories: ["puerto rico"]
+categories: ["Puerto Rico"]
 date: 2019-09-19T12:49:15-04:00
 lastmod: 2019-09-19T12:49:15-04:00
 featured: false

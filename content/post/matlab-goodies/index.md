@@ -6,7 +6,7 @@ subtitle: "Mathworks Matlab"
 summary: "I want that hat!"
 authors: ["icaoberg"]
 tags: ["matlab", "gear", "twitter"]
-categories: ["random"]
+categories: ["Random"]
 date: 2019-09-18T00:15:38-04:00
 lastmod: 2019-09-18T00:15:38-04:00
 featured: true
