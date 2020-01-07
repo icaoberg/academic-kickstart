@@ -16,7 +16,9 @@ projects: [""]
 image:
   caption: "Inside Out"
   focal_point: "Smart"
-  preview_only: true 
+  preview_only: true
 ---
 
-{{< youtube oAr7opHrxCA >}}
+{{< youtube a-a84x3TSlI >}}
+
+P.S. Ninja cutting onions...
