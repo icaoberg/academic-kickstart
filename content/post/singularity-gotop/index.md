@@ -29,7 +29,7 @@ You can find the recipe to build the container [here](https://github.com/icaober
 
 To facilitate the building your container, you will find two **simple** scripts in the repository
 
-* `rbuild.sh`. Builds the image remotely and then pulls it down locally. You will need access to [SyLabs.io Remote Builder](https://cloud.sylabs.io/builder) to do this. Getting access is beyond the scope of this post.
+* `rbuild.sh`. Builds the image remotely and then pulls it down locally. You will need access to [SyLabs.io Remote Builder](https://cloud.sylabs.io/builder) to do this. Getting access to the Remote Builder is beyond the scope of this post.
 * `build.sh`. Builds the image locally. You will root privileges to build the container locally.
 
 ### Building the image locally
@@ -76,7 +76,7 @@ fi
 singularity build --remote $IMAGE $DEFINITION
 ```
 
-If you notice, there isn't much difference between this script and the script above.
+If you notice, there isn't much difference between this script and the previous script.
 
 To build the image remotely simply run
 
@@ -88,7 +88,11 @@ The output should look similar to
 
 [![asciicast](https://asciinema.org/a/cttCPrVN082jOCFdAUyOi0RsB.svg)](https://asciinema.org/a/cttCPrVN082jOCFdAUyOi0RsB)
 
-A note on building remotely. Because my script is simple and straightforward, there are no annotations associated with this build. If you were to take a look at my profile in SyLabs.io you will notice there is a new project associated with running the script above
+A note on building remotely. Because my script is simple and straightforward, there are no annotations associated with this build. If you were to take a look at my profile in [SyLabs.io](https://cloud.sylabs.io/library/icaoberg) you will notice there is a new project associated with the script above
+
+![Screenshot](./screenshot.png)
+
+This is a footprint, evidence the image was build remotely. Also notice the download number is 1. This is because running the remote commands builds the container then downloads it locally.
 
 ## Running gotop
 
