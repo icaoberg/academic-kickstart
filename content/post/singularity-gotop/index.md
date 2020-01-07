@@ -88,7 +88,7 @@ The output should look similar to
 
 [![asciicast](https://asciinema.org/a/cttCPrVN082jOCFdAUyOi0RsB.svg)](https://asciinema.org/a/cttCPrVN082jOCFdAUyOi0RsB)
 
-A note on building remotely. Because my script is simple and straightforward, there are no annotations associated with this build. If you were to take a look at my profile in [SyLabs.io](https://cloud.sylabs.io/library/icaoberg) you will notice there is a new project associated with the script above
+A note on building remotely. Because my script is simple and straightforward, there are no annotations associated with this build. If you were to take a look at my profile in [SyLabs.io](https://cloud.sylabs.io/library/icaoberg) you will notice there is a new project associated with the remote build
 
 ![Screenshot](./screenshot.png)
 
