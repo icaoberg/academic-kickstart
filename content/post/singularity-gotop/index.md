@@ -20,17 +20,17 @@ image:
 
 ![Logo](./logo.png)
 
-[gotop](https://github.com/cjbassi/gotop) is a very useful app that use all the time in our department cluster. Even though I have root privileges in our HPC cluster, I'd rather do my computing as a regular user. It keeps me in check and forces me to think like a power/regular user.
+[gotop](https://github.com/cjbassi/gotop) is a very useful app that I use all the time in our department cluster. Even though I have root privileges in our HPC cluster, I'd rather do my computing as a regular user. It keeps me in check and forces me to think like a power/regular user.
 
 Hence, I use [gotop](https://github.com/cjbassi/gotop) in a Singularity container.  
 
 ## Source code
 You can find the recipe to build the container [here](https://github.com/icaoberg/singularity-gotop).
 
-To facilitate the building your container, you will find two **simple** scripts in the repository
+To facilitate building the container, you will find two **simple** scripts in the repository
 
 * `rbuild.sh`. Builds the image remotely and then pulls it down locally. You will need access to [SyLabs.io Remote Builder](https://cloud.sylabs.io/builder) to do this. Getting access to the Remote Builder is beyond the scope of this post.
-* `build.sh`. Builds the image locally. You will root privileges to build the container locally.
+* `build.sh`. Builds the image locally. You will need root privileges to build the container locally.
 
 ### Building the image locally
 
@@ -92,7 +92,7 @@ A note on building remotely. Because my script is simple and straightforward, th
 
 ![Screenshot](./screenshot.png)
 
-This is a footprint, evidence the image was build remotely. Also notice the download number is 1. This is because running the remote commands builds the container then downloads it locally.
+This is a footprint, evidence the image was built remotely. Also notice the download number is 1. This is because running the remote commands builds the container then downloads it locally.
 
 ## Running gotop
 
