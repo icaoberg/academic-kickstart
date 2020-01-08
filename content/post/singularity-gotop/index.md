@@ -20,7 +20,7 @@ image:
 
 ![Logo](./logo.png)
 
-[gotop](https://github.com/cjbassi/gotop) is a very useful app that use all the time in our department cluster. Even though I have root privileges in our HPC cluster, I'd rather do my computing as a regular user. It keeps you in check and forces me to think like a power/regular user.
+[gotop](https://github.com/cjbassi/gotop) is a very useful app that use all the time in our department cluster. Even though I have root privileges in our HPC cluster, I'd rather do my computing as a regular user. It keeps me in check and forces me to think like a power/regular user.
 
 Hence, I use [gotop](https://github.com/cjbassi/gotop) in a Singularity container.  
 
