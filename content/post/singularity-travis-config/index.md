@@ -30,9 +30,9 @@ But then.... Travis.
 
 ![Logo](./logo.png)
 
-"Travis CI is a hosted continuous integration service used to build and test software projects hosted at GitHub." [[Wikipedia](https://en.wikipedia.org/wiki/Travis_CI)]. Singularity Hub has a template you can reuse, to see the repo click [here](https://github.com/singularityhub/travis-ci).
+"Travis CI is a hosted continuous integration service used to build and test software projects hosted at GitHub." [[Wikipedia](https://en.wikipedia.org/wiki/Travis_CI)]. It was comforting to find Singularity Hub has a template I could reuse. To see their repo click [here](https://github.com/singularityhub/travis-ci).
 
-However, I had to update the scripts. My Travis config for [gotop](https://github.com/icaoberg/singularity-gotop) now looks like this
+Hence, I needed to update my Travis config file as well. It wasn't easy. Installing the newer version of Singularity was a little more convoluted than the older versions (though not that much). Now, the Travis config for [gotop](https://github.com/icaoberg/singularity-gotop) looks like this
 
 ```
 os: linux
@@ -88,7 +88,7 @@ script:
   - du -h singularity-gotop.simg
 ```
 
-And my `./.travis/setup.sh` is just as straight-forward
+and the `./.travis/setup.sh` is just as straight-forward
 
 ```
 #!/bin/bash -ex
@@ -112,8 +112,6 @@ make -j `nproc 2>/dev/null || echo 1` -C ./builddir all
 sudo make -C ./builddir install
 ```
 
-The script above is cleaned up version of the script suggested by the Singularity Hub repo. [It works!](https://travis-ci.org/icaoberg/singularity-gotop) So I am a happy camper.
+The script above is a cleaned up version of the script suggested by the Singularity Hub repo. [It works!](https://travis-ci.org/icaoberg/singularity-gotop/builds/633977539) So I am a happy camper.
 
 <iframe src="https://giphy.com/embed/pGOLBwYBTEvsI" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><br>**Figure 2**. I am a happy camper.
-
-
