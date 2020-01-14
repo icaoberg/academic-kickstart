@@ -5,7 +5,7 @@ title: "Ready to party I am"
 subtitle: "Welcome to back to Carnegie Mellon University"
 summary: "Welcome back to CMU"
 authors: ["icaoberg"]
-tags: ["baby yoda"]
+tags: ["baby yoda", "twitter"]
 categories: ["Random"]
 date: 2020-01-02T17:51:57-05:00
 lastmod: 2020-01-02T17:51:57-05:00

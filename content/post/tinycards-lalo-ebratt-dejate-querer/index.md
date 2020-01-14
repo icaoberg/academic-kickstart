@@ -7,7 +7,7 @@ summary: "The TinyCards set for this wonderful song"
 authors: ["icaoberg"]
 tags: ["tinycards", "spanish"]
 categories: ["Spanish Meetup"]
-date: 2020-01-12T08:00:00-00:00
+date: 2020-01-13T08:00:00-00:00
 featured: true
 draft: false
 projects: ["languages"]

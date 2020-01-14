@@ -5,7 +5,7 @@ title: "Lab Meeting"
 subtitle: "Presenting research progress at lab meeting - expectation vs. reality"
 summary: "Presenting research progress at lab meeting - expectation vs. reality"
 authors: ["icaoberg"]
-tags: ["lab meeting"]
+tags: ["lab meeting", "twitter"]
 categories: ["Random"]
 date: 2019-10-24T09:31:29-04:00
 lastmod: 2019-10-24T09:31:29-04:00

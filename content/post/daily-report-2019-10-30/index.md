@@ -5,7 +5,7 @@ title: "Daily Report"
 subtitle: "TaskWarrior daily progress"
 summary: "TaskWarrior daily progress"
 authors: ["icaoberg"]
-tags: []
+tags: ["twitter"]
 categories: []
 date: 2019-10-30
 lastmod: 2019-10-30
