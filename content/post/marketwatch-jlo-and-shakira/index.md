@@ -18,4 +18,4 @@ image:
   preview_only: true
 ---
 
-[![Article](./article.jpg)](https://www.marketwatch.com/story/jennifer-lopez-and-shakiras-music-sales-spike-after-their-viral-super-bowl-halftime-show-2020-02-03)
+[![Article](./article.png)](https://www.marketwatch.com/story/jennifer-lopez-and-shakiras-music-sales-spike-after-their-viral-super-bowl-halftime-show-2020-02-03)
