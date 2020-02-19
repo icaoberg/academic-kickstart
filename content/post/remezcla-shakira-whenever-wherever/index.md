@@ -6,7 +6,7 @@ subtitle: "ReMezcla"
 summary: "Shakira’s 19-Year-Old “Whenever, Wherever” Is #1 on the Charts Again, Where It Belongs"
 authors: ["icaoberg"]
 tags: ["latinx", "super bowl 2020"]
-categories: [""]
+categories: ["Articles and Blog Posts"]
 date: 2020-02-03T12:00:00-00:00
 featured: true
 draft: false
@@ -18,4 +18,4 @@ image:
   preview_only: true
 ---
 
-[![Article](featured.png)]("https://remezcla.com/music/shakira-whenever-wherever-number-1")
+[![Article](article.png)](https://remezcla.com/music/shakira-whenever-wherever-number-1)

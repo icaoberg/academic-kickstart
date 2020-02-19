@@ -18,6 +18,6 @@ image:
 projects: []
 ---
 
-{{< twitter 1212862253164384257 >}}
+{{< twitter 1220425004271251458 >}}
 
 P.S. Back at [Carnegie Mellon](http://www.cmu.edu).
