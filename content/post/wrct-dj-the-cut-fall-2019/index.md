@@ -22,4 +22,4 @@ image:
 
 Today I had the opportunity to DJ [the Cut](https://en.wikipedia.org/wiki/Carnegie_Mellon_University_traditions#cite_note-thetartan.org-4) and played some nice Latinx tunes. Enjoy!
 
-For the playlist, click [here](https://play.google.com/music/playlist/AMaBXylrLrp3JV0DwIcCDeMvntlVHfSvuRzIbbg4HjVHBoijNjviHHJks5uZuFvCpnH-SXr2ElicqDurX7A7KNxQT9ir_3WMxw%3D%3D)
+For the playlist, click [here](https://play.google.com/music/playlist/AMaBXylrLrp3JV0DwIcCDeMvntlVHfSvuRzIbbg4HjVHBoijNjviHHJks5uZuFvCpnH-SXr2ElicqDurX7A7KNxQT9ir_3WMxw%3D%3D).
