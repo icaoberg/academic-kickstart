@@ -10,20 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Sr. Research Programmer
+role: Sr. Research Programmer/Analyst
 
 # Organizations/Affiliations
 organizations:
 - name: Carnegie Mellon University
   url: "http://www.cmu.edu"
 
+- name: School of Computer Science
+  url: "https://www.cs.cmu.edu/"
+
 - name: Computational Biology Department
   url: "http://www.cbd.cmu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: research programmer/interpreter/latinx/radio host/vegetarian hippie/hawaiian shirt enthusiast
+bio: latinx/research programmer/interpreter/radio host
 
 interests:
+- Education
 - Computational biology
 - Location proteomics
 - Machine learning
