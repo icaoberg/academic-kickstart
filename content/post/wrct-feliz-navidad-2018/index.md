@@ -3,7 +3,7 @@
 
 title: "¡Felices Fiestas! Especial de música de Navidad"
 subtitle: "WRCT Presents: Barrio Latino"
-summary: "WRCT Presents: DJ the Cut"
+summary: "WRCT Presents: ¡Felices Fiestas! Especial de música de Navidad"
 authors: ["icaoberg"]
 tags: ["navidad"]
 categories: ["WRCT"]
