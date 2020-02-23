@@ -7,7 +7,7 @@ summary: "Conversation group for intermediate and advanced speakers"
 authors: ["icaoberg"]
 tags: ["spanish", "meetup", "pittsburgh", "clp"]
 categories: ["Spanish Meetup"]
-date: 2020-02-23T19:00:00-00:00
+date: 2020-02-22T19:00:00-00:00
 featured: true
 draft: false
 projects: ["latinx", "language"]
