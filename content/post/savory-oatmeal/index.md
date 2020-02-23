@@ -6,7 +6,7 @@ subtitle: "Healthy breakfast"
 summary: "Healthy savory oatmeal for breakfast"
 authors: ["icaoberg"]
 tags: ["breakfast"]
-categories: ["youtube"]
+categories: ["Food and Drinks"]
 date: 2019-10-15T20:44:39-04:00
 lastmod: 2019-10-15T20:44:39-04:00
 featured: true
