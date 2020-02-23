@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Barrio Latino its turning 25th this year!"
+title: "Barrio Latino is turning 25th this year!"
 subtitle: "WRCT Presents"
 summary: "WRCT Presents: Barrio Latino"
 authors: ["icaoberg"]
