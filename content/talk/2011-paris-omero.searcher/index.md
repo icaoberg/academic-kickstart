@@ -27,11 +27,7 @@ authors: ["icaoberg"]
 tags: ["openmicroscopy"]
 
 # Is this a featured talk? (true/false)
-featured: true
-
-image:
-  caption: 'Image credit: [**Meeting**](./meeting.jpg)'
-  focal_point: Right
+featured: false
 
 links:
 - icon: twitter
