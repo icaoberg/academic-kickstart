@@ -22,7 +22,7 @@ Today we met at the Carnegie Library of Pittsburgh - Lawrenceville.
 
 The song that was used for the exercise today was
 
-{{ youtube OlXpAWn7t0o }}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OlXpAWn7t0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The documents we shared today with people who attended the Meetup group were
 
