@@ -103,7 +103,7 @@ fi
 
 is neccesary because the `singularity` binary is not accesible from the head node of our HPC cluster. Users must request an allocation to a compute node in order to run apps in Singularity containers.
 
-In a nutshell, you can load and use `cowsay` like this
+![Screenshot](./screenshot.png)
 
 I hope you found this post useful.
 
