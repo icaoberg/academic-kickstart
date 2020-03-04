@@ -9,15 +9,55 @@ title = "Useful Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+
+[[feature]]
+  icon = "jedi-order"
+  icon_pack = "fab"
+  name = "Jedi"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
 
 [[feature]]
   icon = "gitlab"
   icon_pack = "fab"
   name = "GitLab"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Matlab"
+
+[[feature]]
+  icon = "meetup"
+  icon_pack = "fab"
+  name = "Meetup"
 
 [[feature]]
   icon = "microphone"
@@ -30,34 +70,9 @@ subtitle = ""
   name = "Podcasting"
 
 [[feature]]
-  icon = "jedi-order"
+  icon = "python"
   icon_pack = "fab"
-  name = "Jedi"
-
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-
-[[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Docker"
-
-[[feature]]
-  icon = "ubuntu"
-  icon_pack = "fab"
-  name = "Ubuntu"
-
-[[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "Github"
-
-[[feature]]
-  icon = "raspberry-pi"
-  icon_pack = "fab"
-  name = "RaspberryPi"
+  name = "Python"
 
 [[feature]]
   icon = "quora"
@@ -65,38 +80,23 @@ subtitle = ""
   name = "quora"
 
 [[feature]]
-  icon = "wordpress"
+  icon = "raspberry-pi"
   icon_pack = "fab"
-  name = "Wordpress"
+  name = "RaspberryPi"
 
-[[feature]]
-  icon = "meetup"
-  icon_pack = "fab"
-  name = "Meetup"
-
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Matlab"
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-    
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  
-[[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
 
 [[feature]]
-  icon = "jenkins"
+  icon = "ubuntu"
   icon_pack = "fab"
-  name = "Jenkins"
+  name = "Ubuntu"
+
+[[feature]]
+  icon = "wordpress"
+  icon_pack = "fab"
+  name = "Wordpress"
 
 +++
