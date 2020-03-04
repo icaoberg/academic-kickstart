@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-title = "Skills"
+title = "Useful Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,10 +17,65 @@ subtitle = ""
 [[feature]]
   icon = "gitlab"
   icon_pack = "fab"
-  name = "Version control"
+  name = "GitLab"
 
 [[feature]]
-  icon = "code"
+  icon = "microphone"
+  icon_pack = "fas"
+  name = "Radio Hosting"
+
+[[feature]]
+  icon = "podcast"
+  icon_pack = "fas"
+  name = "Podcasting"
+
+[[feature]]
+  icon = "jedi-order"
+  icon_pack = "fab"
+  name = "Jedi"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+
+[[feature]]
+  icon = "ubuntu"
+  icon_pack = "fab"
+  name = "Ubuntu"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "RaspberryPi"
+
+[[feature]]
+  icon = "quora"
+  icon_pack = "fab"
+  name = "quora"
+
+[[feature]]
+  icon = "wordpress"
+  icon_pack = "fab"
+  name = "Wordpress"
+
+[[feature]]
+  icon = "meetup"
+  icon_pack = "fab"
+  name = "Meetup"
+
+[[feature]]
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Matlab"
   
@@ -35,8 +90,13 @@ subtitle = ""
   name = "Statistics"
   
 [[feature]]
-  icon = "ubuntu"
+  icon = "linux"
   icon_pack = "fab"
   name = "Linux"
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
 
 +++

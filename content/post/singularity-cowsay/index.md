@@ -22,11 +22,11 @@ image:
 
 Working with [environment modules](http://modules.sourceforge.net/) makes my life so much easier.
 
-For example, for `cowsay`,I created a `modulefile` that will load the Singularity container to workspace along with a script that calls it. Making the process transparent to the user.
+For example, for `cowsay`,I created a `modulefile` that will load the Singularity container to the workspace along with a script that calls it. Making the process transparent to the user (very little changes to their scripts, may be their SLURM submission scripts).
 
 To make this work you need three things
 
-* an executable script that calls singularity (avoid using `alias`)
+* an executable script that calls singularity (avoid using [`alias`](https://en.wikipedia.org/wiki/Alias_(command)))
 * the Singularity container file
 * a modulefile
 
@@ -89,7 +89,7 @@ else
 fi
 ```
 
-Now, in my case the function
+Now, the function
 
 ```
 function is_compute_node(){
@@ -104,6 +104,54 @@ fi
 is neccesary because the `singularity` binary is not accesible from the head node of our HPC cluster. Users must request an allocation to a compute node in order to run apps in Singularity containers.
 
 ![Screenshot](./screenshot.png)
+
+## Example
+
+Say I have the script `example.sh`
+
+```
+#!/bin/bash
+#
+#$ -j y
+#$ -S /bin/bash
+#$ -cwd
+
+echo "TOTAL SUCCESS" | cowsay
+```
+
+With the changes above, it will now become
+
+```
+#!/bin/bash
+#
+#$ -j y
+#$ -S /bin/bash
+#$ -cwd
+
+module load singularity/cowsay-3.03
+echo "TOTAL SUCCESS" | cowsay
+```
+
+Submitting the script above using SLURM
+
+```
+sbatch -p public --mem=1Gb example.sh
+```
+
+should lead to
+
+```
+ _______________
+< TOTAL SUCCESS >
+ ---------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+## Source code
 
 I hope you found this post useful.
 
