@@ -13,18 +13,26 @@ slides:
   highlight_style: dracula
 ---
 
-# Welcome to Slides
-
-[Academic](https://sourcethemes.com/academic/)
+# singularity-cowsay
+```
+ ____________
+< 'sup nerds >
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 ---
 
-## Features
+## Overview
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- What is Singularity?
+- Why use Singularity?
+- Wait... why not Docker?
+- Example
 
 ---
 
@@ -38,7 +46,6 @@ slides:
 - Speaker notes: `S`
 - Fullscreen: `F`
 - Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
 ---
 
@@ -53,6 +60,38 @@ if porridge == "blueberry":
     print("Eating...")
 ```
 
+---
+
+## Example
+
+Let's try to get an image from [Sylabs.io](https://sylabs.io/)
+
+Run the command below to search for `cowsay`
+
+```bash
+singularity search cowsay
+```
+
+---
+
+## Example
+
+```bash
+singularity search cowsay
+No users found for 'cowsay'
+
+No collections found for 'cowsay'
+
+Found 4 containers for 'cowsay'
+	library://tyson-swetnam/default/cowsay
+		Tags: latest
+	library://tyson-swetnam/default/cowsay-v2
+		Tags:
+	library://ebirn/mycollection/my-cowsay
+		Tags: develop
+	library://icaoberg/default/cowsay
+		Tags: latest v3.03
+```
 ---
 
 ## Math
