@@ -7,7 +7,7 @@ summary: "Mathworks Matlab Certification"
 authors: ["icaoberg"]
 tags: ["matlab","certification"]
 categories: ["Programming"]
-date: 2020-02-09T10:00:00-00:00
+date: 2020-03-09T10:00:00-00:00
 featured: true
 draft: false
 image:
