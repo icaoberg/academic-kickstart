@@ -1,0 +1,18 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Solving Ordinary Differential Equations with MATLAB"
+subtitle: "Mathworks Matlab Certification"
+summary: "Mathworks Matlab Certification"
+authors: ["icaoberg"]
+tags: ["matlab","certification"]
+categories: ["Programming"]
+date: 2020-02-09T10:00:00-00:00
+featured: true
+draft: false
+image:
+  caption: "Matlab Onramp"
+  focal_point: "center"
+  preview_only: false
+projects: []
+---
