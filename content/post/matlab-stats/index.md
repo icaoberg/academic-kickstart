@@ -16,3 +16,5 @@ image:
   preview_only: false
 projects: []
 ---
+
+I have been taken advantage of the current worldwide situation distract and educate myself. It is not easy given the current state of affairs, however, distractions are important for everybody's sanity.
