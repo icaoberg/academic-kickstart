@@ -6,7 +6,7 @@ subtitle: "Pennsylvania Department of Health "
 summary: "Preparing for the Spread of COVID-19"
 authors: ["icaoberg"]
 tags: ["covid-19", "pittsburgh"]
-categories: ["Pittsburgh", "Events"]
+categories: []
 date: 2020-03-15T10:00:00-00:00
 featured: false
 draft: false

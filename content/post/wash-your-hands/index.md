@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Potato"
+title: "Wash your hands..."
 subtitle: "Gloria Gaynor washing her hands"
 summary: "Gloria Gaynor washing her hands"
 authors: ["icaoberg"]

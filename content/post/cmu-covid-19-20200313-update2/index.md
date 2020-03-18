@@ -6,7 +6,7 @@ subtitle: "COVID-19 FAQs for university housing"
 summary: "COVID-19 FAQs for university housing"
 authors: ["icaoberg"]
 tags: ["covid-19", "twitter"]
-categories: []
+categories: ["Carnegie Mellon University"]
 date: 2020-03-13T15:57:00-00:00
 featured: true
 draft: false
