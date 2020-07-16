@@ -10,27 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Sr. Research Programmer/Analyst
+role: Research Software Specialist
 
 # Organizations/Affiliations
 organizations:
+- name: Pittsburgh Supercomputing Center
+  url: "https://www.psc.edu"
+
+- name: Mellon College of Science
+  url: "https://www.cmu.edu/mcs/"
+
 - name: Carnegie Mellon University
   url: "http://www.cmu.edu"
 
-- name: School of Computer Science
-  url: "https://www.cs.cmu.edu/"
-
-- name: Computational Biology Department
-  url: "http://www.cbd.cmu.edu"
-
 # Short bio (displayed in user profile at end of posts)
-bio: latinx/research programmer/interpreter/radio host
+bio: research software specialist/interpreter/radio host
 
 interests:
+- Technology and research programming
 - Education
-- Computational biology
-- Location proteomics
+- Computational Biology
 - Machine learning
+- Pattern recognition
+- Hawaiian shirts
 
 education:
   courses:
@@ -74,4 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I am responsible for designing and developing experimental research applications and modifying existing software for specific research applications based on knowledge of the theoretical foundations of information and computation including algorithms and data structures, and the application of state-of-the-art programming methodology and languages for their implementation and application in computer-based systems. I also provide consulting services to researchers relative to software technology and capability as well as supervising student programmers at the Computational Biology Department, formerly known as the Lane Center for Computational Biology.
+I am research software specialist at the Pittsburgh Supercomputing Center at the Mellon College of Science since June 2020. At the moment I am involved with [HuBMAP](https://commonfund.nih.gov/hubmap) and the [Brain Image Library](https://www.brainimagelibrary.org/).
+
+I am also a senior research programmer at the Computational Biology Department at the School of Computer Science.
