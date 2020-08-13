@@ -7,9 +7,9 @@ summary: "Compiling the main functions of CellOrganizer"
 authors: ["icaoberg"]
 tags: ["cellorganizer"]
 categories: ["Programming"]
-date: 2020-02-26T10:00:00-00:00
+date: 2020-05-29T10:00:00-00:00
 featured: true
-draft: false
+draft: true
 projects: []
 
 image:
